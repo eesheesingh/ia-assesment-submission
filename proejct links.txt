@@ -1,3 +1,4 @@
 Github Link: https://github.com/eesheesingh
 Vercel Link: https://vercel.com/eesheesinghs-projects
-Project Link: https://learn-js-project-five.vercel.app/
+Personal Project Link: https://learn-js-project-five.vercel.app/
+Personal Project Repo: https://github.com/eesheesingh/learn-js-project.git
